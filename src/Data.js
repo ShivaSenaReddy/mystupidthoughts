@@ -9,7 +9,8 @@ Control bad thoughts. Do something every day, distract yourself with a new good 
 I am going to take the example of Marcus Aurelius the greatest Emporer who is going to stay in control no matter the situation
 and thoughts. I am going to take responsibility for my life and I am going to be more in control of my life    
 I am going to be more sober and thus increase my AURA and stay in the best possible shape.
-Groom nicely.
+Groom nicely. This happened because I am not getting more things done. I am stuck with two SRs
+and I have a dental appointment today and I am worried about it.
 `
     },
 
