@@ -1,7 +1,10 @@
 .App {
-  text-align: center;
+    margin: 20px auto;
+    width: 80%;
 }
-
+h1{
+    text-align:center;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -38,11 +41,10 @@
 }
 
 .Day {
-    width: 80%;
-    margin: 20px auto;
     background-color: #f3f3f3;
     padding:20px 10px;
    border-radius:10px;
+   margin:20px 0;
 }
 h3{
     text-align:left;
@@ -50,4 +52,10 @@ h3{
 
 p{
     text-align:left;
+}
+
+@media screen and (max-width: 600px) {
+    .App {
+      font-size:80%;
+    }
 }

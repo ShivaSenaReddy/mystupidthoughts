@@ -4,6 +4,7 @@ import Day from "./Day"
 export default function Daylist() {
     let arr = Data.map(item => <Day Date={item.Date}
         Description={item.Description}
+        key={item.Description}
     />)
     return (
         <div className='Daylist'>
