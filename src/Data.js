@@ -1,4 +1,12 @@
-const Data = [
+const Data = [{
+    Date: '13-11-2022',
+    Description: `My batting was not upto the mark today because I was trying to hit 6
+every ball and no singles. It happened before with badminton where I evolved my game
+and pushed it so that I can hit gracefully. I lost so many games in this process but today my game
+is on another level because of that.
+We lost 0-8 today but I know on Tuesday, I will score runs and I will hit the ball cleanly.
+We are going to win on Tuesday.`
+},
     {
         
         Date: '09-11-2022',
