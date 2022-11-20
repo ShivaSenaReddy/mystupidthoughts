@@ -1,4 +1,15 @@
 const Data = [{
+    Date: '19-11-2022',
+    Description: `I booked only Puse 7 for 2hrs from 2:30 to 4:30 assuming it will be available
+    at 4:30. It wasnt and people were dissapointed by my choice.
+Coming to my batting, when defend the ball is sometimes in the air which can be caught.
+So on Monday I am going to hit the ball cleanly. and defend cleanly.
+Few of my sixes were too low and they can be caught easily.
+I will hit sixes above the feilder's reach on Monday.
+I am going to hold the bat with tight grip. Play with intent and am going to smash the bowlers at will for sixes.
+Try to use more depth in crease and also stance check while batting.`
+},
+    {
     Date: '15-11-2022',
     Description: `Today I was nervous before the game. My hands were shaking but I know that
 when I am like this I am game on. Went to bat at the non-striker end.Akhil scored a 4.
